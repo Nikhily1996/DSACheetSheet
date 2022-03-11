@@ -3,3 +3,6 @@
 ################################################################################
 
 /DataStructureProblem/bin/Debug/netcoreapp3.1
+/.vs
+/DataStructureProblem/.vs/DataStructureProblem
+/DataStructureProblem/obj
