@@ -7,7 +7,7 @@ namespace DataStructureProblem
     {
         static void Main(string[] args)
         {
-            ISolvable problem = new PascalTriangle();
+            ISolvable problem = new KandanesAlgorithm();
             problem.Solve();
         }
     }
