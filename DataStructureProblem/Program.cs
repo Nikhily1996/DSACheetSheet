@@ -7,7 +7,7 @@ namespace DataStructureProblem
     {
         static void Main(string[] args)
         {
-            ISolvable problem = new KandanesAlgorithm();
+            ISolvable problem = new SortColorsProblem();
             problem.Solve();
         }
     }
